@@ -1,0 +1,117 @@
+{
+  "name": "Table",
+  "data": [
+    {
+      "label": "Category A",
+      "data": [
+        {
+          "label": "Category A.A",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category A.B",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category A.C",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Category B",
+      "data": [
+        {
+          "label": "Category B.A",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category B.B",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Category C",
+      "data": [
+        {
+          "label": "Category C.A",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category C.B",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category C.C",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category C.D",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        },
+        {
+          "label": "Category C.E",
+          "data": [
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 },
+            { "employees": 100, "companies": 100 }
+          ]
+        }
+      ]
+    }
+  ]
+}

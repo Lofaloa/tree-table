@@ -1,0 +1,29 @@
+{
+  "name": "Table",
+  "data": [
+    {
+      "label": "Category A",
+      "data": [
+        { "employees": 100, "companies": 100 }
+      ]
+    },
+    {
+      "label": "Category B",
+      "data": [
+        { "employees": 100, "companies": 100 }
+      ]
+    },
+    {
+      "label": "Category C",
+      "data": [
+        { "employees": 100, "companies": 100 }
+      ]
+    },
+    {
+      "label": "Category D",
+      "data": [
+        { "employees": 100, "companies": 100 }
+      ]
+    }
+  ]
+}

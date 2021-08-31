@@ -1,0 +1,36 @@
+<h3>{{ table.name }}</h3>
+<table>
+  <thead>
+    <tr>
+      <th *ngFor="let header of headers">{{ header }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th [attr.rowspan]="firstParentCategorySize">{{ firstParentCategory.label }}</th>
+      <th [attr.rowspan]="firstSubCategorySize">{{ firstSubCategory.label }}</th>
+      <td>Jobs</td>
+      <td>Companies</td>
+    </tr>
+    <tr *ngFor="let children of remainingChildren">
+      <td>{{ children.employees }}</td>
+      <td>{{ children.companies}}</td>
+    </tr>
+
+    <ng-container *ngFor="let subcategory of remainingSubCategories">
+
+      <tr>
+        <th [attr.rowspan]="subCategorySize(subcategory)">{{ subcategory.label }}</th>
+        <td>Jobs</td>
+        <td>Companies</td>
+      </tr>
+
+      <tr *ngFor="let children of remainingSubCategoryChildren(subcategory)">
+        <td>{{ children.employees }}</td>
+        <td>{{ children.companies}}</td>
+      </tr>
+
+    </ng-container>
+
+  </tbody>
+</table>

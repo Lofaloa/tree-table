@@ -1,0 +1,201 @@
+{
+  "name": "Table",
+  "data": [
+    {
+      "label": "Category A",
+      "data": [
+        {
+          "label": "Category A.A",
+          "data": [
+            {
+              "label": "Category A.A.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Category A.B",
+          "data": [
+            {
+              "label": "Category A.B.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.B.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.B.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Category A.C",
+          "data": [
+            {
+              "label": "Category A.A.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Category B",
+      "data": [
+        {
+          "label": "Category B.A",
+          "data": [
+            {
+              "label": "Category B.A.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category B.A.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category B.A.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Category B.B",
+          "data": [
+            {
+              "label": "Category A.B.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.B.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.B.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Category B.C",
+          "data": [
+            {
+              "label": "Category A.A.A",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.B",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            },
+            {
+              "label": "Category A.A.C",
+              "data": [
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 },
+                { "jobs": 100, "companies": 100 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

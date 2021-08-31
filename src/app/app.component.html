@@ -1,0 +1,64 @@
+<script src="components/group/group.component.ts"></script><h1>Dynamic Table</h1>
+<h2>Formatted</h2>
+<app-table></app-table>
+<h2>Raw data</h2>
+<pre>
+  <code>{{ _content }}</code>
+</pre>
+<h2>Example</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Column A</th>
+      <th>Column B</th>
+      <th>Column C</th>
+      <th>Column D</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!--  -->
+
+    <tr>
+      <th rowspan="9">Header 1</th> <!-- sum of all rows-->
+      <th rowspan="3">Header 1.1</th> <!-- rows in subcategory -->
+      <th rowspan="1">Header 1.1.1</th>
+      <td>Data 1.1.1</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.1.2</th>
+      <td>Data 1.1.2</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.1.3</th>
+      <td>Data 1.1.3</td>
+    </tr>
+    <tr>
+      <th rowspan="3">Header 1.2</th>
+      <th rowspan="1">Header 1.2.1</th>
+      <td>Data 1.2.1</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.2.2</th>
+      <td>Data 1.2.2</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.2.3</th>
+      <td>Data 1.2.3</td>
+    </tr>
+
+    <tr>
+      <th rowspan="3">Header 1.3</th>
+      <th rowspan="1">Header 1.3.1</th>
+      <td>Data 1.2.1</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.3.2</th>
+      <td>Data 1.3.2</td>
+    </tr>
+    <tr>
+      <th rowspan="1">Header 1.3.3</th>
+      <td>Data 1.3.3</td>
+    </tr>
+  </tbody>
+</table>

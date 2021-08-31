@@ -1,0 +1,28 @@
+<tr>
+  <th [attr.rowspan]="rows">{{ group.label }}</th>
+
+  <ng-container *ngIf="containsGroup">
+    <th [attr.rowspan]="3">{{ groups[0].label }}</th>
+    <th [attr.rowspan]="1">Header 1</th>
+    <td>Child 1</td>
+  </ng-container>
+</tr>
+
+<tr>
+  <th [attr.rowspan]="1">Header 2</th>
+  <td>Child 2</td>
+</tr>
+
+<tr>
+  <th [attr.rowspan]="1">Header 2</th>
+  <td>Child 2</td>
+</tr>
+
+
+
+<!--<div *ngIf="containsData">-->
+<!--  <app-data class="app-data-table" *ngFor="let data of dataGroup" [data]="data"></app-data>-->
+<!--</div>-->
+<!--<div *ngIf="containsGroup">-->
+<!--  <app-group class="app-subgroup-table" *ngFor="let subgroup of groups" [group]="subgroup"></app-group>-->
+<!--</div>-->
