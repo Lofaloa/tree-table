@@ -1,6 +1,4 @@
 import {Group} from "./group";
-import {Data} from "./data";
-import * as table from "./schema.sample.3.json";
 
 type Node = any;
 

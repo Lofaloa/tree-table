@@ -1,0 +1,201 @@
+{
+  "value": "Table",
+  "children": [
+    {
+      "value": "Category A",
+      "children": [
+        {
+          "value": "Category A.A",
+          "children": [
+            {
+              "value": "Category A.A.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "Category A.B",
+          "children": [
+            {
+              "value": "Category A.B.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.B.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.B.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "Category A.C",
+          "children": [
+            {
+              "value": "Category A.A.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "Category B",
+      "children": [
+        {
+          "value": "Category B.A",
+          "children": [
+            {
+              "value": "Category B.A.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category B.A.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category B.A.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "Category B.B",
+          "children": [
+            {
+              "value": "Category A.B.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.B.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.B.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "value": "Category B.C",
+          "children": [
+            {
+              "value": "Category A.A.A",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.B",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            },
+            {
+              "value": "Category A.A.C",
+              "children": [
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] },
+                { "value": { "jobs": 100, "companies": 100 }, "children": [] }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
